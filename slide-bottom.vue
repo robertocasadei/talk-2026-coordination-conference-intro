@@ -1,18 +1,18 @@
 
 <script setup>
 
-const author = 'Roberto Casadei, PhD - roby.casadei@unibo.it'
+const author = "Roberto Casadei, Fatemeh Ghassemi"
 const logoUrl = '/imgs/unibo.png'
 </script>
 
 <template>
     <div class="global-bottom" aria-hidden="true">
         <div class="global-bottom__inner">
-            <div class="author">{{ author }}</div>
+            <div class="author"><span class="authors">{{ author }}</span> - COORDINATION'26 PC co-chairs</div>
             <div class="counter">{{ $slidev.nav.currentPage }} / {{ $slidev.nav.total }}</div>
         </div>
         <div class="logo-wrap">
-            <img src="/imgs/unibo.png" alt="logo" class="logo" />
+            <!-- <img src="/imgs/unibo.png" alt="logo" class="logo" /> -->
         </div>
     </div>
 </template>
@@ -27,6 +27,7 @@ const logoUrl = '/imgs/unibo.png'
     color: white;
     pointer-events: none;
     z-index: 9999;
+    /*font-weight: bold;*/
 }
 .global-bottom__inner {
     display: flex;
@@ -35,7 +36,7 @@ const logoUrl = '/imgs/unibo.png'
     padding: 8px 20px;
     font-size: 0.75em;
     opacity: 0.;
-    font-weight: 500;
+    /*font-weight: 500;*/
 }
 .logo-wrap {
     margin-left: 12px;
@@ -48,5 +49,9 @@ const logoUrl = '/imgs/unibo.png'
     opacity: 0.2;
     /* transform: rotate(-45deg); */
     /* z-index: -1; */
+}
+.authors {
+    font-weight: 900;
+    font-family: sans serif;
 }
 </style>
