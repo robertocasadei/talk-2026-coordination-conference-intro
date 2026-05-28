@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: /imgs/banner2026.png # https://cover.sli.dev
+background: imgs/banner2026.png # https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: COORDINATION 2026
 # info provides ..
@@ -37,7 +37,6 @@ zoom: 0.65
 
 <style>
 h4 { color: #a00; }
-
 </style>
 
 <div v-click.fade>
