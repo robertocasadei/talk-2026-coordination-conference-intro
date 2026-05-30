@@ -5,6 +5,7 @@ theme: default
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: /imgs/banner2026.png # https://cover.sli.dev
 # some information about your slides (markdown enabled)
+layout: cover
 title: COORDINATION 2026
 # info provides ..
 info: |
@@ -23,15 +24,17 @@ transition: slide-left
 comark: true
 # duration of the presentation
 duration: 5min
+
 ---
 
 
 # Welcome to COORDINATION 2026
 
 ---
-# COORDINATION 2026 - Programme
 zoom: 0.65
 ---
+
+# COORDINATION 2026 - Programme
 
 <style>
 h4 { color: #a00; }
@@ -130,7 +133,7 @@ h4 { color: #a00; }
 
 # COORDINATION 2026 - Analytics of acceptance rate
 - 13 out of 29 papers were accepted: 11 regular and 2 tool papers.
-- 3 artifacts awarded the "Available and Reusable Badge", and 4 were awarded the "Available and Functional" Badge.
+- 3 artifacts awarded the "Available and Reusable Badge", and 4 awarded the "Available and Functional" Badge.
 <!--![Geographical distribution of submissions](/imgs/number-submission-acceptance-by-country.png)-->
 
 <img src="/imgs/number-submission-acceptance-by-country.png" style="width:70%; margin-left: auto; margin-right: auto;" >
