@@ -29,11 +29,9 @@ duration: 5min
 # Welcome to COORDINATION 2026
 
 ---
+# COORDINATION 2026 - Programme
 zoom: 0.65
 ---
-
-# COORDINATION 2026 - Programme
-
 
 <style>
 h4 { color: #a00; }
@@ -103,3 +101,37 @@ h4 { color: #a00; }
 - Phyelds: A Pythonic Framework for Aggregate Computing 
 
 </div>
+
+---
+
+# COORDINATION 2026 - Analytics of Submission
+
+- We had 31 **paper** submissions: 
+	- 2 were desk-rejected;
+	- 24 regular and 5 tool papers sent for the review
+- We had 13 **artifact** submissions
+		
+<!--![Geographical distribution of submissions](/)-->
+
+<img src="/imgs/num-submission-by-country.png" style="width:65%; margin-left: auto; margin-right: auto;" >
+
+---
+
+# COORDINATION 2026 - Analytics of Review
+
+- We have 32 PC members from 15 different countries (with gender balance F/M = 12/20).
+- We have 9 members of the Artifact Evaluation Committee (AEC), chaired by Gianluca Aguzzi.
+
+<!--![Review process](/imgs/num-reviewers-per-submissions.png)-->
+
+<img src="/imgs/num-reviewers-per-submissions.png" style="width:65%; margin-left: auto; margin-right: auto;" >
+
+---
+
+# COORDINATION 2026 - Analytics of acceptance rate
+- 13 out of 29 papers were accepted: 11 regular and 2 tool papers.
+- 3 artifacts awarded the "Available and Reusable Badge", and 4 were awarded the "Available and Functional" Badge.
+<!--![Geographical distribution of submissions](/imgs/number-submission-acceptance-by-country.png)-->
+
+<img src="/imgs/number-submission-acceptance-by-country.png" style="width:70%; margin-left: auto; margin-right: auto;" >
+
