@@ -109,9 +109,9 @@ h4 { color: #a00; }
 
 # COORDINATION 2026 - Analytics of Submission
 
-- We had 31 **paper** submissions: 
+- We had 30 **paper** submissions: 
 	- 2 were desk-rejected;
-	- 24 regular and 5 tool papers sent for the review
+	- 23 regular and 5 tool papers sent for the review
 - We had 13 **artifact** submissions
 		
 <!--![Geographical distribution of submissions](/)-->
@@ -132,7 +132,7 @@ h4 { color: #a00; }
 ---
 
 # COORDINATION 2026 - Analytics of acceptance rate
-- 13 out of 29 papers were accepted: 11 regular and 2 tool papers.
+- 13 out of 28 papers were accepted: 11 regular and 2 tool papers.
 - 3 artifacts awarded the "Available and Reusable Badge", and 4 awarded the "Available and Functional" Badge.
 <!--![Geographical distribution of submissions](/imgs/number-submission-acceptance-by-country.png)-->
 
