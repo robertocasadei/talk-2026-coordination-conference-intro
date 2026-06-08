@@ -24,6 +24,7 @@ transition: slide-left
 comark: true
 # duration of the presentation
 duration: 5min
+download: true
 
 ---
 
