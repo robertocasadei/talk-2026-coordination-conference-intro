@@ -35,7 +35,7 @@ const logoUrl = '/imgs/unibo.png'
     align-items: center;
     padding: 8px 20px;
     font-size: 0.75em;
-    opacity: 0.;
+    opacity: 0.8;
     /*font-weight: 500;*/
 }
 .logo-wrap {
