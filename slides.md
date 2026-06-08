@@ -27,6 +27,13 @@ duration: 5min
 
 ---
 
+<style>
+#slidev-goto-dialog {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+</style>
 
 # Welcome to COORDINATION 2026
 
@@ -225,3 +232,34 @@ for AP-based DRV.
 
 <img src="/imgs/number-submission-acceptance-by-country.png" style="width:70%; margin-left: auto; margin-right: auto;" >
 
+---
+
+# COORDINATION 2026 - Acknowledgements
+
+- We warmly thank the **Steering Commitee** and especially its chair **Michele Loreti** for the support in organising the conference
+- We warmly thank the DisCoTec general chair  **Claudio Mezzina** for various other organisational aspects
+- We warmly thank the **Program Committee members** for the review and discussion activity (great service!)
+- We also warmly thank all the **COORDINATION submitters, authors, and participants** for contributing to the conference!
+
+---
+zoom: 0.8
+---
+
+# COORDINATION 2026 - Have a great time at the conference!
+
+&nbsp;
+
+We hope you will enjoy the COORDINATION program and community!
+
+<div class="grid grid-cols-2 gap-8 items-center">
+  <div class="w-[60%] aspect-[3/4] overflow-hidden justify-self-center">
+    <img src="/imgs/roby.png" class="w-full h-[90%] object-cover object-center scale-80" />
+
+    Roberto
+  </div>
+  <div class="w-[60%] aspect-[3/4] overflow-hidden justify-self-center">
+    <img src="/imgs/fatemeh.jpg" class="w-full h-[90%] object-cover object-center scale-80" />
+
+    Fatemeh
+  </div>
+</div>
