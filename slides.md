@@ -264,3 +264,15 @@ We hope you will enjoy the COORDINATION program and community!
     Fatemeh
   </div>
 </div>
+
+---
+# Relevant issues and suggestions
+
+- There was no data to start from
+- We gathered [info](https://docs.google.com/spreadsheets/d/1v14Rqj3lWbkOu0jUWOiKVVNmlqjSWpuT/edit?usp=sharing&ouid=114868283600295662170&rtpof=true&sd=true) of previous events (PCs, invited talks) that can be shared with the next chairs
+	- We labeled PCs with the topics we revised
+- We invited people from the community while trying to keep the balance on the gender/geographical/topics converages
+	- We considered the **frequent contributors** (authours) to  COORDINATION 
+	- We registered who rejected (we revised the proposed PC list for three rounds)
+- We contacted people from the community while inviting PCs to encourage them to submit
+
